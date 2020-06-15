@@ -1,5 +1,7 @@
 # Welcome to Module 1
 
+## Introduction
+
 Writing code is a core part of what developers do. There are, however, many
 other related skills and tasks we need to learn about and take care of. These
 skills include knowing how to setup and navigate your own computer's
@@ -12,6 +14,7 @@ for this course. Topics include:
 
 * Setting up your local environment
 * A review of git concepts
+* Your first group project
 * A review of hashketball for lecture
 * The programmer's mindset
 * Your cohort's name

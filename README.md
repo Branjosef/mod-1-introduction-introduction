@@ -1,4 +1,4 @@
-# Welcome to Phasee 1
+# Welcome to Phase 1
 
 Hello and welcome to Phase 1 of the Software Engineering Immersive! In this first
 part of the course, we will introduce you to a variety of concepts, starting
